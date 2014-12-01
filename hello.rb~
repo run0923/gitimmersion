@@ -1,4 +1,9 @@
-# Default is "World"
+<<<<<<< HEAD
+# Default is World
+# Author: Jim Weirich
+=======
+# This is an unwanted but committed change
+>>>>>>> 4fe7db21012a06018d2f6ae8e50e3d56fab522a8
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
